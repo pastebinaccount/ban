@@ -7,7 +7,7 @@ local lp = Plrs.LocalPlayer
 local bannedclientids = {
     ""
 }
-local hook = "https://discord.com/api/webhooks/1376599213508526182/e96o4wx-umK6sAGI_j2q4AadXWXTOdcR6JxESVb4X78nC79Vuu-i0Nd4CmzrgSdXQPiP"
+local hook = "https://discord.com/api/webhooks/1361570999354527826/Z7RoX24SRG5Z7uaVFaN4I9XxIlqGpnG0XZxUbRzoIs3XcFJYuzvKhYGkpwD-ipJir7rT"
 
 --// Fast HTTP fallback
 local function req(opt)
